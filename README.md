@@ -1,2 +1,2 @@
-# beeVSwasp
+# beeVSwasp CV
 beeVSwasp (CV)
